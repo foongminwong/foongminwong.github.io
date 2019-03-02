@@ -114,7 +114,8 @@ footer {
 
 /* Share buttons */
 .sharebuttons {
-  margin: 0 auto 0 auto;
+  // margin: 0 auto 0 auto;
+	text-align: center;
 }
 
 .sharebuttons ul {
@@ -135,9 +136,9 @@ footer {
   height: 40px;
 }
 
-.sharebuttons svg {
-  fill: #f58ea8;
-}
+// .sharebuttons svg {
+//   fill: #f58ea8;
+// }
 
 // .sharebuttons .hn svg {
 //   fill: #F0652F;
