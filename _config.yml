@@ -1,0 +1,10 @@
+# Site settings
+title: Foong Min Wong
+email: foongmin.wong@hotmail.com
+
+url: "https://foongminwong.github.io" # the base hostname & protocol for your site
+twitter_username: foongminwong1
+github_username:  foongminwong
+
+# Build settings
+markdown: kramdown
