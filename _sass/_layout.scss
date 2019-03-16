@@ -1,12 +1,22 @@
+html{
+	height: 100%;
+}
+
 body {
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
 	font-size: 1.1em;
-	line-height: 1.6;
+	// line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
-	background: #000;
+	// background: #FFF;
 	text-align: center;
+
+
+	height: 100%;
+
+
+	// position: relative;
 }
 h1,
 h2,
@@ -15,6 +25,7 @@ h3 {
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.5;
+
 }
 h1 {
 	color: $main;
@@ -32,33 +43,53 @@ a,
 a:visited {
 	color: $link-color;
 	text-decoration: underline;
-	font-weight: bold;
+	font-weight: lighter;
 }
 a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
 header {
-	background: $header;
-	padding: 0px 15px;
+	// background: $header;
+	// padding: 0px 15px;
 	text-align: center;
-	margin: 50px 0 0;
-	height: 10vh;
+	background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/images/profile.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	height: 85%;
+	// margin: 50px 0 0;
+	// margin: auto;
+	// height: 10vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
+
+.header-text {
+  text-align: center;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
 main {
 	padding: 0 15px;
 	max-width: $content-width;
-	margin: 0 auto;
+	// margin: 0 auto;
+	margin: auto;
 }
 time {
 	color: #898989;
 }
 .container {
 	max-width: $content-width;
-	margin: 0 auto;
+	// margin: 0 auto;
+	margin: auto;
 }
 
 /* Aside */
@@ -109,18 +140,21 @@ time {
 // }
 footer {
 	text-align: center;
-	padding: 40px;
+	padding: 10px;
 }
 
 /* Share buttons */
 .sharebuttons {
   // margin: 0 auto 0 auto;
-	text-align: center;
+	// align: center;
+	margin: auto;
+
 }
 
 .sharebuttons ul {
-  margin: 20px 0 0 0;
-  text-align: center;
+  // margin: 20px 0 0 0;
+	margin: auto;
+  // text-align: center;
 }
 
 .sharebuttons ul li {
