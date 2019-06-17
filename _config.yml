@@ -1,30 +1,25 @@
-# Site settings
 title: Foong Min Wong
-description: Personal Website for Foong Min Wong
-
-baseurl: ""
-url: "http://localhost:4000"
-
-# Social
-facebook: foongminwong
-github:  foongminwong
-twitter: foongminwong
-linkedin: foongminwong
 email: foongmin.wong@hotmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: foongminwong
+github_username:  foongminwong
 
-picture: assets/images/profile.png
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-authors:
-    foongminwong:
-        name: Foong Min Wong
-        picture: assets/images/profile.png
-
-
-width: normal
-
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
