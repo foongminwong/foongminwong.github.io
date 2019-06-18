@@ -28,7 +28,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn} 
 
 ![Visualization of Algebraic Surfaces Using Python and Bertini_real](/assets/raw-smooth-crixxi-stern.jpg)
-* Collaborated with Dan Hessler (research student) and contributed to an open-source software, [Bertini_real](https://github.com/ofloveandhate/bertini_real) by implementing python-based visualization routine
+* Collaborated with [Dan Hessler](https://github.com/dan90210) (research student) and contributed to an open-source software, [Bertini_real](https://github.com/ofloveandhate/bertini_real) by implementing python-based visualization routine
 * Translated raw surface visualization operation from MATLAB to Python
 * Implemented codes of operations for stereolithography (STL) mesh export feature for 3d printing
 * Used Sphinx to auto-document Python source codes and created tutorials on how to use the software Python visualization suite
@@ -68,7 +68,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 * Solidified algebraic surfaces with singularities via Blender
 * Added support, configured printing process & 3D printed several mathematical models such as [Kreuz](https://danielleamethyst.org/gallery/kreuz/), [Tobel](https://danielleamethyst.org/work_blog/tobel/), Stern, Croissant, and etc through Simplify3D
 * Presented a [talk](https://drive.google.com/file/d/1ALCojQlIR8WPhhrVxmALFITjlwpCqHEK/view) at the Society of Industrial and Mathematics Annual Meeting 2018 (SIAM AN18) in Portland, Oregon.
-* Collaborated and presented [poster](https://drive.google.com/file/d/1Io8Oc4hCdO9fDOsVYZmBmlwSkbvSVfp6/view) with David Bachmeier (research student) at UWEC CERCA
+* Collaborated and presented [poster](https://drive.google.com/file/d/1Io8Oc4hCdO9fDOsVYZmBmlwSkbvSVfp6/view) with [David Bachmeier](https://github.com/DavidBachmeier) (research student) at UWEC CERCA
 
 ** I do not own the copyrights to the images. [Danielle](https://danielleamethyst.org/gallery/hauser/) owns them :)
 
