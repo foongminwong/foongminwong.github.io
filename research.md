@@ -4,6 +4,7 @@ title: Research
 permalink: /Research
 ---
 
+
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python
 #### Faculty Mentor: [Dr. Danielle Brake](https://danielleamethyst.org/)
 ##### *May 2019 - Aug 2019*
@@ -14,7 +15,11 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 * Wrote automation Python script to import faces and vertices data from Bertini_real and export animation of math models
 * Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties and lighting
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Visualization of Algebraic Surfaces Using Python and Bertini_real
 #### Faculty Mentor: [Dr. Danielle Brake](https://danielleamethyst.org/)
@@ -31,7 +36,11 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 
 ** I do not own the copyrights to the images. [Danielle](https://danielleamethyst.org/) owns them :)
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Random Forest Analysis of Breast Cancer Age at Onset
 #### Faculty Mentor: [Dr. Abra Brisbin](https://sites.google.com/site/abrabrisbin/home)
@@ -43,7 +52,11 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 * Divided real data on breast cancer into 8 different chromosomes ubsets and scheduled each random forest analysis jobs on BGSC through Slurm
 * Collaborated with Hannah Bettack (research student) and presented a [talk](https://drive.google.com/open?id=1giXEBbKeJaBFqU4EwpNDQp5XJ9fX0To7) during annual Math Retreat & [poster](https://drive.google.com/file/d/1pS3IricFTyH42Vaz84ar6rdKAPEi4lOh/view) at [UW System Symposium](https://1.bp.blogspot.com/-pATtcwl0JFA/XMuDB0MwTjI/AAAAAAAATHQ/_8AFraB3gZQQMPzxiY3QaAMmMOvZyRVagCLcBGAs/s1600/IMG_20190426_133457.jpg)
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## 3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real
 #### Faculty Mentor: [Dr. Danielle Brake](https://danielleamethyst.org/)
