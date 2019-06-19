@@ -30,7 +30,7 @@ Link: [Website](http://www.songyuan.org/){: .btn}
 
 ![Interdisciplinary Study - Cross-cultural Research of Internet Communication](/assets/songyuan.PNG)
 
-* Worked with a graphic designer ([Joseph Grosskreutz](https://www.linkedin.com/in/josephgrosskreutz/))and developed a website (songyuan.org) that employs principles of UX friendly design for the historical International Society for Song, Yuan, and Conquest Dynasty Studies (SSYCDS)
+* Worked with a graphic designer ([Joseph Grosskreutz](https://www.linkedin.com/in/josephgrosskreutz/)) and developed a website (songyuan.org) that employs principles of UX friendly design for the historical International Society for Song, Yuan, and Conquest Dynasty Studies (SSYCDS)
 * Created a cohesive website that visually communicates a cross-cultural subject of SSYCDS using HTML, CSS and Javascript
 
 &nbsp;
@@ -48,6 +48,6 @@ Links: [Website](https://uweccsdatamining101weka.wordpress.com/){: .btn} , [Repo
 
 ![Introduction to Data Mining](/assets/data-mining-101.PNG)
 
-* Developed a website as a resource for future students to learn about data mining (uweccsdatamining101weka.wordpress.com)
+* Developed a website as a resource for future students to learn about data mining
 * Learned how to use a machine learning software (Weka) to analyze simple sample data (iris data, breast cancer data, etc.)
 
