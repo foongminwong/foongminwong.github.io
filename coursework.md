@@ -19,9 +19,9 @@ Link: [Project](https://www.youtube.com/watch?v=mco30XV3dUk){: .btn}, [Specs](ht
 
 ## Web Systems Final Project
 ##### *Spring 2018*
-#### Technologies Used: PHP,Jquery, MySQL, Javascript, HTML, CSS, Bootstrap
+#### Technologies Used: PHP, Jquery, MySQL, Javascript, HTML, CSS, Bootstrap
 #### Developed a responsive and animated CS department website 
-Link: [Project](https://www.youtube.com/watch?v=Sw1gsviYHAQ){: .btn} 
+Link: [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/web-systems/finalproject/){: .btn}, [Project](https://www.youtube.com/watch?v=Sw1gsviYHAQ){: .btn} 
 
 ![Web Systems Final Project](/assets/uwec-cs268-final-proj.gif)
 
@@ -61,7 +61,7 @@ Link: [Project](https://www.youtube.com/watch?v=mco30XV3dUk){: .btn}, [Specs](ht
 ## Simple PHP & MySQL Database Connection Project
 ##### *Spring 2018*
 #### Technologies Used: PHP, MySQL, HTML
-Link: [Project](https://www.youtube.com/watch?v=Hsw43IWZzGk&feature=youtu.be){: .btn} 
+Link: [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/web-systems/hw3/){: .btn}, [Project](https://www.youtube.com/watch?v=Hsw43IWZzGk&feature=youtu.be){: .btn} 
 
 ![Simple PHP & MySQL Database Connection Project](/assets/uwec-cs268-php-login.gif)
 &nbsp;
@@ -70,10 +70,10 @@ Link: [Project](https://www.youtube.com/watch?v=Hsw43IWZzGk&feature=youtu.be){: 
 
 &nbsp;
 
-## ImageUtilities**
+## ImageUtilities
 ##### *Fall 2016*
 #### Technologies Used: Java, Eclipse
-Link: [Project](https://youtu.be/6K-lDkgeorM){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw4/hw4.pdf){: .btn} 
+Link: [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw4/){: .btn}, [Project](https://youtu.be/6K-lDkgeorM){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw4/hw4.pdf){: .btn} 
 
 ![ImageUtilities](/assets/tiled-mrbean.jpg)
 
@@ -87,7 +87,7 @@ Link: [Project](https://youtu.be/6K-lDkgeorM){: .btn}, [Specs](https://twodee.or
 ## BrailleUtilities
 ##### *Fall 2016*
 #### Technologies Used: Java, Eclipse
-Link: [Project](https://youtu.be/G3pEl1GNUUQ){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw2/hw2.pdf){: .btn} 
+Link: [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw2/){: .btn}, [Project](https://youtu.be/G3pEl1GNUUQ){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw2/hw2.pdf){: .btn} 
 
 ![BrailleUtilities](/assets/BrailleUtilities-java.gif)
 
@@ -100,7 +100,7 @@ Link: [Project](https://youtu.be/G3pEl1GNUUQ){: .btn}, [Specs](https://twodee.or
 ## MusicUtilities
 ##### *Fall 2016*
 #### Technologies Used: Java, Eclipse
-Link: [Project](https://youtu.be/NqPkAAug7mM){: .btn}, [Music](https://drive.google.com/open?id=1jvAsFKtcV8c1BruBygOus3vKnEBC-cYX){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw5/hw5.pdf){: .btn} 
+Link: [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw5/){:btn}, [Project](https://youtu.be/NqPkAAug7mM){: .btn}, [Music](https://drive.google.com/open?id=1jvAsFKtcV8c1BruBygOus3vKnEBC-cYX){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw5/hw5.pdf){: .btn} 
 
 ![MusicUtilities](/assets/beauty-n-beast-java.png)
 
