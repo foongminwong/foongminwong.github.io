@@ -28,7 +28,7 @@ Other | ![Web Systems Final Project](/assets/uwec-cs268-final-proj.gif)| ![PHP M
 Project  | MindReader                 |  RainbowScript |
 :-------:|:--------------------------:|:-------------------:|
 Tools Used |Haskell|Ruby|
-Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/mind-reader/){: .btn}, [Project](https://youtu.be/_-uU6kd7edk){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/regexercise/){: .btn}, [Project](https://youtu.be/8A3s3JpnilU){: .btn}|
+Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/mind-reader/){: .btn}, [Project](https://youtu.be/_-uU6kd7edk){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/rainbow-ruby/){: .btn}, [Project](https://youtu.be/8A3s3JpnilU){: .btn}|
 Description | A Haskell program that reads the number from a user's mind. I implemented binaryToDecimal conversions and other helper methods to achieve this magic trick since each number list corresponds to a single binary digit. | A Ruby script that uses pattern-matching and regular expression to annotate all terahertz frequencies of the visible electromagnetic spectrum with color names. 
 Other | ![MindReader](/assets/mind-reader.gif)| ![RainbowScript](/assets/color-terahertz.PNG)
 
@@ -45,7 +45,7 @@ Other | ![MindReader](/assets/mind-reader.gif)| ![RainbowScript](/assets/color-t
 Project  | Tic-Tac-Toe    |  DNA & RNA Sequences Manipulation     |
 :-------:|:--------------:|:-------------------------------------:|
 Tools Used | Java, Eclipse | Java, Eclipse |
-Link | [Repo](){: .btn}, [Project](https://youtu.be/cUPOaRJ5Z44){: .btn} | [Repo](){: .btn}, [Project](https://youtu.be/7QhIdOHqJBw){: .btn}
+Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/data-struc/hw2/){: .btn}, [Project](https://youtu.be/cUPOaRJ5Z44){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/data-struc/dna-rna/){: .btn}, [Project](https://youtu.be/7QhIdOHqJBw){: .btn}
 Description | A Java Tic-Tac-Toe GUI that either allows one person to play against the user or two players to play game. I created this windows application using Java Swing Components. | A bioinformatics program that I created to modify (insert, remove, clip, transcribe, etc.) Deoxyribonucleic acid (DNA) and Ribonucleic acid (RNA) sequences using linked list data structures. 
 
 &nbsp;
