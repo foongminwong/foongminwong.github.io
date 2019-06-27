@@ -9,25 +9,10 @@ permalink: /Coursework
 
 Project  | CS Website Development              |  PHP & MySQL Login Form               |
 :-------:|:-----------------------------------:|:-------------------------------------:|
-Technology Used |PHP, Jquery, MySQL, Javascript, HTML, CSS, Bootstrap |PHP, MySQL, HTML|
+Tools Used |PHP, Jquery, MySQL, Javascript, HTML, CSS, Bootstrap |PHP, MySQL, HTML|
 Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/web-systems/finalproject/){: .btn}, [Project](https://www.youtube.com/watch?v=Sw1gsviYHAQ){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/web-systems/hw3/){: .btn}, [Project](https://www.youtube.com/watch?v=Hsw43IWZzGk&feature=youtu.be){: .btn}
-Description | A responsive and animated CS department website | A simple login form with PHP and MySQL
-Other | ![Web Systems Final Project](/assets/uwec-cs268-final-proj.gif)| ![Web Systems Final Project](/assets/uwec-cs268-php-login.PNG)
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Data Structures
-##### *Spring 2017*
-
-Project  | Tic-Tac-Toe    |  DNA & RNA Sequences Manipulation     |
-:-------:|:--------------:|:-------------------------------------:|
-Technology Used | Java, Eclipse | Java, Eclipse |
-Link | [Repo](){: .btn}, [Project](https://youtu.be/cUPOaRJ5Z44){: .btn} | [Repo](){: .btn}, [Project](https://youtu.be/7QhIdOHqJBw){: .btn}
-Description | A Java GUI that allows two players to play tic-tac-toe | A bioinformatics program that modify (insert, remove, splice, clip, transcribe, etc.) DNA & RNA sequences 
+Description | A responsive and animated CS department website that I developed for my web systems final project.  | A simple login form and system that I created using PHP and MySQL.  
+Other | ![Web Systems Final Project](/assets/uwec-cs268-final-proj.gif)| ![PHP MySQL Login Form](/assets/uwec-cs268-php-login.PNG)
 
 &nbsp;
 
@@ -40,12 +25,28 @@ Description | A Java GUI that allows two players to play tic-tac-toe | A bioinfo
 
 
 
-Project  | Funfun                     |  Ractor             |
+Project  | MindReader                 |  RainbowScript |
 :-------:|:--------------------------:|:-------------------:|
-Technology Used |Haskell|Ruby|
-Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/funfun/){: .btn}, [Project](https://www.youtube.com/watch?v=gflTRu21jxY){: .btn}, [Specs](https://twodee.org/teaching/cs330/2018a/homework/funfun/funfun.pdf){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/regexercise/){: .btn}, [Project](https://youtu.be/sDHZGgFNtpM){: .btn}, [Specs](https://twodee.org/teaching/cs330/2018a/homework/regexercise/regexercise.pdf){: .btn}|
-Description | Explore functional programming, pattern matching, and higher-order functions | Use regular expressions to create apttern-matching and substituion tasks
+Tools Used |Haskell|Ruby|
+Link | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/mind-reader/){: .btn}, [Project](https://youtu.be/_-uU6kd7edk){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/prog-lang/regexercise/){: .btn}, [Project](https://youtu.be/8A3s3JpnilU){: .btn}|
+Description | A Haskell program that reads the number from a user's mind. I implemented binaryToDecimal conversions and other helper methods to achieve this magic trick since each number list corresponds to a single binary digit. | A Ruby script that uses pattern-matching and regular expression to annotate all terahertz frequencies of the visible electromagnetic spectrum with color names. 
+Other | ![MindReader](/assets/mind-reader.gif)| ![RainbowScript](/assets/color-terahertz.PNG)
 
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Data Structures
+##### *Spring 2017*
+
+Project  | Tic-Tac-Toe    |  DNA & RNA Sequences Manipulation     |
+:-------:|:--------------:|:-------------------------------------:|
+Tools Used | Java, Eclipse | Java, Eclipse |
+Link | [Repo](){: .btn}, [Project](https://youtu.be/cUPOaRJ5Z44){: .btn} | [Repo](){: .btn}, [Project](https://youtu.be/7QhIdOHqJBw){: .btn}
+Description | A Java Tic-Tac-Toe GUI that either allows one person to play against the user or two players to play game. I created this windows application using Java Swing Components. | A bioinformatics program that I created to modify (insert, remove, clip, transcribe, etc.) Deoxyribonucleic acid (DNA) and Ribonucleic acid (RNA) sequences using linked list data structures. 
 
 &nbsp;
 
@@ -59,9 +60,9 @@ Description | Explore functional programming, pattern matching, and higher-order
 
 Program|MusicUtilities  |  BrailleUtilities  | Image Utilities |
 :-----:|:--------------:|:----------------:|:-----------------:|
-Technology Used |   Java, Eclipse   |Java, Eclipse|Java, Eclipse|
-Link| [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw5/){:btn}, [Project](https://youtu.be/NqPkAAug7mM){: .btn}, [Music](https://drive.google.com/open?id=1jvAsFKtcV8c1BruBygOus3vKnEBC-cYX){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw5/hw5.pdf){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw2/){: .btn}, [Project](https://youtu.be/G3pEl1GNUUQ){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw2/hw2.pdf){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw4/){: .btn}, [Project](https://youtu.be/6K-lDkgeorM){: .btn}, [Specs](https://twodee.org/teaching/cs145/2016c/homework/hw4/hw4.pdf){: .btn} 
-Description | Music Composer using Arrays |  Braille Translator | Seamless Tiled Image Generator
+Tools Used |   Java, Eclipse   |Java, Eclipse|Java, Eclipse|
+Link| [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw5/){:btn}, [Project](https://youtu.be/NqPkAAug7mM){: .btn}, [Music](https://drive.google.com/open?id=1jvAsFKtcV8c1BruBygOus3vKnEBC-cYX){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw2/){: .btn}, [Project](https://youtu.be/G3pEl1GNUUQ){: .btn} | [Repo](https://bitbucket.org/foongminwong/undergraduate-projects/src/master/intro-oop/hw4/){: .btn}, [Project](https://youtu.be/6K-lDkgeorM){: .btn}
+Description | A Music Composer using Arrays |  A Braille Translator | A Seamless Tiled Image Generator
 
 &nbsp;
 
