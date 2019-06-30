@@ -11,6 +11,8 @@ permalink: /Research
 #### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, Blender
 Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn} 
 
+![3D Anaglyph Movies](/assets/daisy-whitney.gif)
+
 * Created 3D movies rendered in stereoscopic anaglyph using Blender/Python API
 * Wrote automation Python script to import faces and vertices data from Bertini_real and export animation of math models
 * Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties and lighting

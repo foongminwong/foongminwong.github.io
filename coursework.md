@@ -107,8 +107,8 @@ Description | A Music Composer using Arrays |  A Braille Translator | A Seamless
 
 ## Digital Imaging and Design
 
-Project | WiSTEM Marketin  |
-:------:|:----------------:|
+Project | WiSTEM Organization Marketing |
+:------:|:-----------------------------:|
 Tools Used |  Adobe Photoshop, Illustrator, InDesign
 Link | [Brochure](https://drive.google.com/open?id=1JDIV5scT8ZM7xDOCn-pNPsPhJWpo2GIg){: .btn}, [Video](https://youtu.be/7yoAZ-so34I?t=281){: .btn}, [Logo](https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/26804598_768097123360550_4696234425835194043_n.png?_nc_cat=102&_nc_oc=AQl24lhJngMmt7mgOLWsTuKvpqtIXE6-seA5BvxLa2zxpxdvA8yzIuy178XIAPA2IQQ&_nc_ht=scontent-msp1-1.xx&oh=ee798f2a23de7b4b781075597ad4a9c6&oe=5D806DE2), [Organization](https://www.facebook.com/UWECWomenInSTEM/) 
 Other | ![Women & Gender Minorities in STEM Design Final Project](/assets/uwec-wistem-logo.png)
