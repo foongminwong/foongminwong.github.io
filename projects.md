@@ -4,25 +4,8 @@ title: Projects
 permalink: /Projects
 ---
 
-## Redevelopment Plan for The City of Eau Claire
-#### Faculty Mentor: [Dr. Thomas Kemp](https://www.facebook.com/KempsEconChannel/)
-##### *Jan 2019 - May 2019*
-#### Tools Used: Microsoft Excel, Pivot Tables
-Link: [Project](https://drive.google.com/open?id=1vggrBelOpNQEXbdxcE_rfnWsDoMSmM_1){: .btn} 
 
-![Redevelopment Plan for The City of Eau Claire](/assets/econ491-eau-claire-redevelopment.png)
-
-* Worked with a group of students to collect and analyse Eau Claire Housing Data from the Census database and Zillow
-* Created a plan to improve the community housing rentals and remodelling based on the current housing data
-* Created pivot tables in Excel to benchmark multiple cities and compile useful information for the city development project
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Interdisciplinary Study - Cross-cultural Research of Internet Communication
+## Cross-cultural Interdisciplinary Research Study of Internet Communication
 #### Faculty Mentor: Dr. Reiko Shinno, Bao Li-Ying
 ##### *Apr 2018 - May 2019*
 #### Tools Used: HTML, CSS, Javascript
@@ -45,9 +28,28 @@ Link: [Website](http://www.songyuan.org/){: .btn}
 #### Tools Used: Weka, Wordpress, LaTeX
 Links: [Website](https://uweccsdatamining101weka.wordpress.com/){: .btn} , [Repo](https://github.com/foongminwong/cs399_datamining_notes){: .btn}
 
-
 ![Introduction to Data Mining](/assets/data-mining-101.PNG)
+
 
 * Developed a website as a resource for future students to learn about data mining
 * Learned how to use a machine learning software (Weka) to analyze simple sample data (iris data, breast cancer data, etc.)
+
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Redevelopment Plan for The City of Eau Claire
+#### Faculty Mentor: [Dr. Thomas Kemp](https://www.facebook.com/KempsEconChannel/)
+##### *Jan 2019 - May 2019*
+#### Tools Used: Microsoft Excel, Pivot Tables
+Link: [Project](https://drive.google.com/open?id=1vggrBelOpNQEXbdxcE_rfnWsDoMSmM_1){: .btn} 
+
+![Redevelopment Plan for The City of Eau Claire](/assets/econ491-eau-claire-redevelopment.png)
+
+* Worked with a group of students to collect and analyse Eau Claire Housing Data from the Census database and Zillow
+* Constructed a plan to improve the community housing rentals and remodelling based on the current housing data
+* Created pivot tables in Excel to benchmark multiple cities and compile useful information for the city development project
 
