@@ -2,16 +2,6 @@
 layout: default
 title: 
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-98422769-4');
-</script>
-
 
 Hello! I'm a senior at University of Wisconsin-Eau Claire studying Computer Science, Mathematics and Economics. 
 
