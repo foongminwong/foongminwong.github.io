@@ -5,7 +5,7 @@ permalink: /Research
 ---
 
 
-## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python
+## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API
 #### Faculty Mentor: [Dr. Danielle Brake](https://danielleamethyst.org/)
 ##### *May 2019 - Aug 2019*
 #### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, Blender
@@ -14,8 +14,8 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 ![3D Anaglyph Movies](/assets/daisy-whitney.gif)
 
 * Created 3D movies rendered in stereoscopic anaglyph using Blender/Python API
-* Wrote automation Python script to import faces and vertices data from Bertini_real and export animation of math models
-* Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties and lighting
+* Wrote automation shell script for video rendering of multiple surfaces
+* Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, aniamtions and lighting
 
 &nbsp;
 
