@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 
-description: Hello, I’m Foong Min, advocate for women & gender minorities in STEM. Enjoy learning, programming, and researching.
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
