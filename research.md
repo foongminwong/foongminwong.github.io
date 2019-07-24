@@ -15,7 +15,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 
 * Created 3D movies rendered in stereoscopic anaglyph using Blender/Python API
 * Wrote automation shell script for video rendering of multiple surfaces
-* Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, aniamtions and lighting
+* Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, animations and lighting
 
 &nbsp;
 

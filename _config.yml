@@ -1,6 +1,6 @@
 title: Foong Min Wong
 email: foongminw@gmail.com
-description: Hello, I’m Foong Min, advocate for women & gender minorities in STEAM. Enjoy learning, programming, and researching. # >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: foongminwong
