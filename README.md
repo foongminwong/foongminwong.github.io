@@ -1,6 +1,6 @@
 # foongminwong.github.io
 Building my personal website using Jekyll, Sass, Bundler :woman_technologist:
-[My Website](https://foongminwong.github.io)
+[My Website](https://foongminwong.github.io) (based on [Minima](https://github.com/jekyll/minima))
 
 To test the website locally, run the following commands:
 1. Run `bundle install`
