@@ -4,6 +4,22 @@ title: Coursework
 permalink: /Coursework
 ---
 
+## [CodePath Mobile Development Course](https://drive.google.com/open?id=1dJ41HppX3DHcKobRI7-dlSECYdScJWGF)
+##### *Fall 2019*
+
+Project  | Flixster              |  ParseInstagram   |
+:-------:|:-----------------------------------:|:-------------------------------------:|
+Tools Used | Android Studio | Android Studio, Heroku |
+Link | [Repo](https://github.com/foongminwong/Flixster){: .btn} | [Repo](https://github.com/foongminwong/ParseInstagram){: .btn}|
+Description | An app that allows users to browse movies from the The [Movie Database API](https://docs.themoviedb.apiary.io/#)| A photo sharing app similar to Instagram but using Parse as its backend | 
+Other | ![Flixster](https://github.com/foongminwong/Flixster/raw/master/flixster-part2.gif)| ![ParseInstagram](https://github.com/foongminwong/ParseInstagram/raw/master/parseinstagram1.gif)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 ## Web Systems
 ##### *Spring 2018*
 

@@ -4,6 +4,21 @@ title: Projects
 permalink: /Projects
 ---
 
+## Predictive Analysis on Malaysian Dengue Hemorrhagic Fever 2010-2017 data using BigML
+#### Faculty Mentor: Dr. Carolyn Otto (MATH380 Research Methods Project)
+##### *Sep 2019 - Dec 2019*
+#### Tools Used: Overleaf (LaTeX-Beamer), BigML, Python (Data Formatting only)
+Link: [Repo](https://github.com/foongminwong/dengue-analysis){: .btn} 
+
+![](https://github.com/foongminwong/dengue-analysis/blob/master/pictures/dhf2010-2017age.PNG?raw=true)
+
+* Learned about grant writing, research presentation, creating poster, proof writing, etc. and worked on an independent research project
+
+&nbsp;
+
+---
+
+&nbsp;
 
 ## Cross-cultural Interdisciplinary Research Study of Internet Communication
 #### Faculty Mentor: Dr. Reiko Shinno, Bao Li-Ying

@@ -15,7 +15,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 * Created 3D movies rendered in stereoscopic anaglyph using Blender/Python API
 * Wrote automation shell script for video rendering of multiple surfaces
 * Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, animations and lighting
-* Present in GEEKcon 2019 and [poster (TBD)]() at [Joint Mathematics Meetings (JMM) 2020](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro)
+* Presented in GEEKcon 2019 and [poster](https://drive.google.com/open?id=1rKvrZWZNixB5KWcJqnQHGyJh7ybGJ1Ds) at [Joint Mathematics Meetings (JMM) 2020](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro)
 
 ** Check out [Silviana's Algebraic Surfaces playlist](https://www.youtube.com/watch?v=TZGlXpTvzWk&list=PLvPfvi8Fl36z3MOewwpm6zwGySU-pnCow)
 
