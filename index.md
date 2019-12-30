@@ -22,7 +22,9 @@ In my spare time, I enjoy [blogging](https://foongminwong.blogspot.com), volunte
 
 ![STEM memories](/assets/stem_banner_2.png)
 
-Take a look at my [resume](https://drive.google.com/open?id=10HE4X9rg9c7CHY1tb6vBGWWo0ggodHxC)(May 2019)/ [CV](https://drive.google.com/file/d/1OT-HkQwWePL-A6QOifTcMTO_UMIH7fRY/view)(Dec 2019) to learn more or keep navigating!
+Take a look at my [resume](https://drive.google.com/open?id=10HE4X9rg9c7CHY1tb6vBGWWo0ggodHxC)(May 2019) to learn more or keep navigating!
+
+<!-- [CV](https://drive.google.com/file/d/1OT-HkQwWePL-A6QOifTcMTO_UMIH7fRY/view)(Dec 2019) -->
 
 
 
