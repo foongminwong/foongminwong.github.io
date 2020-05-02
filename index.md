@@ -18,7 +18,7 @@ Hello! I'm a senior at University of Wisconsin-Eau Claire studying Computer Scie
 
 I aspire to [promote student diversity in STEM](https://www.youtube.com/watch?v=dtJj1jAKOas) on campus, through my roles as Vice President of [Women and Gender Minorities in STEM](https://sites.google.com/view/uwecwistem/) (18-19) and Web Administrator of [Women in Information Technology Systems](https://www.facebook.com/UWECOMTECH/) (17-19). I was 
 
-In my spare time, I enjoy blogging, volunteering, travelling, cooking, watching movies, and etc.
+In my spare time, I enjoy [blogging](https://medium.com/@foongminwong), volunteering, travelling, cooking, watching movies, and etc.
 
 ![STEM memories](/assets/stem_banner_2.png)
 
