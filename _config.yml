@@ -6,6 +6,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: foongminwong
 github_username:  foongminwong
 linkedin_username: foongminwong
+medium_username: foongminwong
 
 # Build settings
 markdown: kramdown
