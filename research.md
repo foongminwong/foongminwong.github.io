@@ -5,9 +5,10 @@ permalink: /Research
 ---
 
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API
-#### Faculty Mentor: [Dr. Silviana Amethyst](https://danielleamethyst.org/)
+#### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *May 2019 - Aug 2019*
 #### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, Blender, JSON
+#### GitHub PRs: [Adding Anaglypy, Vertex module and vertex type](https://github.com/ofloveandhate/bertini_real/pull/68), [Refactor decomposition](https://github.com/ofloveandhate/bertini_real/pull/69), [Matplotlib Pieces Plotting & Documentation](https://github.com/ofloveandhate/bertini_real/pull/70)
 Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn} 
 
 ![3D Anaglyph Movies](/assets/daisy-whitney.gif)
@@ -17,7 +18,13 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 * Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, animations and lighting
 * Presented in GEEKcon 2019 and [poster](https://drive.google.com/open?id=1rKvrZWZNixB5KWcJqnQHGyJh7ybGJ1Ds) at [Joint Mathematics Meetings (JMM) 2020](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro)
 
+
+
 ** Check out [Silviana's Algebraic Surfaces playlist](https://www.youtube.com/watch?v=TZGlXpTvzWk&list=PLvPfvi8Fl36z3MOewwpm6zwGySU-pnCow)
+
+
+** I do not own the copyrights to the images/videos. [Silviana](https://silviana.org) owns them :)
+
 
 &nbsp;
 
@@ -26,9 +33,11 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 &nbsp;
 
 ## Visualization of Algebraic Surfaces Using Python and Bertini_real
-#### Faculty Mentor: [Dr. Silviana Amethyst](https://danielleamethyst.org/)
+#### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *Sep 2018 - Dec 2019*
 #### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, 3D Builder, Blender, Simplify3D, Sphinx, LaTeX
+#### GitHub PR: [Python surface visualization](https://github.com/ofloveandhate/bertini_real/pull/62)
+
 Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn} 
 
 ![Visualization of Algebraic Surfaces Using Python and Bertini_real](/assets/raw-smooth-crixxi-stern.jpg)
@@ -38,7 +47,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 * Used Sphinx to auto-document Python source codes and created tutorials on how to use the software Python visualization suite
 * Presented [poster](https://drive.google.com/file/d/11b6kZrPP3QqIbP9UImjpyiI2s4j6gIRT/view) at National Conferences on Undergraduate Research ([NCUR2019](https://1.bp.blogspot.com/-j-XIA9jOM9o/XMuDvQa2xqI/AAAAAAAATIQ/u2My98JVYcUk16Rgn3nAwBzimvvzM4R_QCLcBGAs/s1600/57053736_10213341253033938_7355756777213788160_o%2B%25281%2529.jpg)) in Kennessaw Georgia and [UW System Symposium](https://1.bp.blogspot.com/-IaF1ORMQsj8/XMuDDVk9vII/AAAAAAAATHY/hvhpD5A6gUYL1Uwb4fnSyJBW01CQCXqCQCLcBGAs/s1600/IMG_20190426_133717.jpg) in Green Bay
 
-** I do not own the copyrights to the images. [Silviana](https://danielleamethyst.org/) owns them :)
+** I do not own the copyrights to the images. [Silviana](https://silviana.org) owns them :)
 
 &nbsp;
 
@@ -63,7 +72,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 &nbsp;
 
 ## 3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real
-#### Faculty Mentor: [Dr. Silviana Amethyst](https://danielleamethyst.org/)
+#### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *Sep 2017 - May 2018*
 #### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), MATLAB, 3D Builder, Blender, Simplify3D, LaTeX, Ultibots D300VS, LulzBot TAZ (3D printers), PLA filament
 
