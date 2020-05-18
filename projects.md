@@ -11,8 +11,9 @@ permalink: /Projects
 Link: [Repo](https://github.com/foongminwong/dengue-analysis){: .btn} 
 
 ![](https://github.com/foongminwong/dengue-analysis/blob/master/pictures/dhf2010-2017age.PNG?raw=true)
-
-* Learned about grant writing, research presentation, creating poster, proof writing, etc. and worked on an independent research project
+* Worked with a faculty mentor to analyze the historical trend of dengue hemorrhagic fever cases using BigML
+* Used Python to automate dengue data formatting and cleaning processes
+* Learned about grant writing, research presentation, creating poster, proof writing, etc.
 
 &nbsp;
 
@@ -29,7 +30,7 @@ Link: [Website](http://www.songyuan.org/){: .btn}
 ![Interdisciplinary Study - Cross-cultural Research of Internet Communication](/assets/songyuan.PNG)
 
 * Worked with a graphic designer ([Joseph Grosskreutz](https://www.linkedin.com/in/josephgrosskreutz/)) and developed a website (songyuan.org) that employs principles of UX friendly design for the historical International Society for Song, Yuan, and Conquest Dynasty Studies (SSYCDS)
-* Created a cohesive website that visually communicates a cross-cultural subject of SSYCDS using HTML, CSS and Javascript
+* Created a cohesive website that visually communicates a cross-cultural subject of SSYCDS using HTML, CSS, and Javascript
 
 &nbsp;
 
@@ -67,4 +68,3 @@ Link: [Project](https://drive.google.com/open?id=1vggrBelOpNQEXbdxcE_rfnWsDoMSmM
 * Worked with a group of students to collect and analyse Eau Claire Housing Data from the Census database and Zillow
 * Constructed a plan to improve the community housing rentals and remodelling based on the current housing data
 * Created pivot tables in Excel to benchmark multiple cities and compile useful information for the city development project
-
