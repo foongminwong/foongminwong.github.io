@@ -16,7 +16,7 @@ description: Hello, I’m Foong Min, advocate for women & gender minorities in S
 
 Foong is a recent graduate with BS in Mathematics, Computer Science, and Economics at University of Wisconsin-Eau Claire. She has been involved in interdisciplinary research in computational geometry, biostatistics, and economics. During her undergraduate years at University of Wisconsin-Eau Claire, she aspires to [promote student diversity in STEM](https://www.youtube.com/watch?v=dtJj1jAKOas) on campus, through her roles as Vice President of [Women and Gender Minorities in STEM](https://sites.google.com/view/uwecwistem/) (18-19) and Web Administrator of [Women in Information Technology Systems](https://www.facebook.com/UWECOMTECH/) (17-19). 
 
-In her spare time, she enjoys [blogging](https://medium.com/@foongminwong), mentoring students/contributing to [AnitaB.org Open Source](https://github.com/anitab-org), learning new technologies, working on [random projects](https://github.com/foongminwong), doing pilates, cooking, etc.
+In her spare time, she enjoys [blogging](https://medium.com/@foongminwong), mentoring students/contributing to [AnitaB.org Open Source](https://github.com/anitab-org), learning new technologies, working on [random projects](https://github.com/foongminwong), biking, doing yoga, cooking, etc.
 
 
 ![STEM memories](/assets/stem_banner_2.png)
