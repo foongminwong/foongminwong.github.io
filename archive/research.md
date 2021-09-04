@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /Research
+# title: Research
+permalink: /archive/research
 ---
 
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API

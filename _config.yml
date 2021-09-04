@@ -1,8 +1,18 @@
-title: Foong Min Wong
-email: foongminw@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# Name of your site (displayed in the header)
+title: Foong Min (Victoria Wong)
+
+author:
+  name : Foong Min Wong
+  email: foongminw@gmail.com
+
+google_analytics: UA-98422769-4
+
+description: #Hello, I’m (Victoria) Wong Foong Min, advocate for women & gender minorities in STEM. Enjoy learning, programming, and researching.
+# avatar: https://avatars.githubusercontent.com/u/23441795?s=60&v=4
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+show_excerpts: false # set to true to show excerpts on the homepage
+
 twitter_username: foongminwong
 github_username:  foongminwong
 linkedin_username: foongminwong
