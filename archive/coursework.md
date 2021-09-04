@@ -1,7 +1,7 @@
 ---
 layout: default
 # title: Coursework
-permalink: /archive/coursework
+# permalink: /archive/coursework
 ---
 
 ## [CodePath Mobile Development Course](https://drive.google.com/open?id=1dJ41HppX3DHcKobRI7-dlSECYdScJWGF)
