@@ -1,7 +1,7 @@
 ---
 layout: default
-# title: Projects
-# permalink: /archive/projects
+title:
+permalink:
 ---
 
 ## Predictive Analysis on Malaysian Dengue Hemorrhagic Fever 2010-2017 data using BigML
