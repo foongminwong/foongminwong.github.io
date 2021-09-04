@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive
-permalink: /archive
+# permalink: /archive
 ---
 
 Mar 2019 - Aug 2021: [Coursework](coursework), [Projects](projects), [Research](research)

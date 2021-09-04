@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title:
-permalink:
+permalink: /research
 ---
 
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API
