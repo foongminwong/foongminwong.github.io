@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coursework
+# title: Coursework
 # permalink: /archive/coursework
 ---
 
