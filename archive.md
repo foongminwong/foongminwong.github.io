@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Archive
-permalink: /archive
+# permalink: /archive
 ---
 
-Mar 2019 - Aug 2021: [Coursework](coursework), [Projects](projects), [Research](research)
+Mar 2019 - Aug 2021: [Coursework](archive/coursework), [Projects](archive/projects), [Research](archive/research)
 
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/5si1u0CSKKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
