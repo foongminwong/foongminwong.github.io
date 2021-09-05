@@ -1,8 +1,9 @@
 ---
 layout: default
 title:
-permalink: /projects
+# permalink: /projects
 ---
+&nbsp;
 
 ## Predictive Analysis on Malaysian Dengue Hemorrhagic Fever 2010-2017 data using BigML
 #### Faculty Mentor: Dr. Carolyn Otto (MATH380 Research Methods Project)

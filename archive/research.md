@@ -1,8 +1,9 @@
 ---
 layout: default
 title:
-permalink: /research
+# permalink: /research
 ---
+&nbsp;
 
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API
 #### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)

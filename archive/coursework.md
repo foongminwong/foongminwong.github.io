@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 
-permalink: /coursework
+# permalink: /coursework
 ---
+&nbsp;
 
 ## [CodePath Mobile Development Course](https://drive.google.com/open?id=1dJ41HppX3DHcKobRI7-dlSECYdScJWGF)
 ##### *Fall 2019*
