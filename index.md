@@ -57,7 +57,7 @@ Experience 📜
   - Student diversity advocate in [STEM](https://www.youtube.com/watch?v=dtJj1jAKOas)
   - [Others](archive/projects)
 
-Blog ✏ 
+Blog 📝 
 - [Medium](https://medium.com/@foongminwong)
 
 &nbsp;
