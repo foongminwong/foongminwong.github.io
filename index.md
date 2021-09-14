@@ -14,7 +14,7 @@ description: Hello, I’m (Victoria) Wong Foong Min, advocate for women & gender
 </script>
 
 
-Hello! 你好! Apa khabar? 🙋🏻‍♀️ 
+About me 🙋🏻‍♀️ 
 
 {% highlight python %}
 def about_me():
@@ -60,10 +60,10 @@ Experience 📜
 Other 👩🏻‍💻
 - [Medium](https://medium.com/@foongminwong)
 
-&nbsp;
-<!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->
+![STEM memories](/assets/stem_banner_2.png)
 
-<!-- ![STEM memories](/assets/stem_banner_2.png) -->
+<!-- &nbsp; -->
+<!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->
 
 
 <!-- Take a look at her [resume](https://drive.google.com/open?id=10HE4X9rg9c7CHY1tb6vBGWWo0ggodHxC)(May 2019) to learn more or keep navigating!
