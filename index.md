@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-description: Hello, I’m (Victoria) Wong Foong Min, advocate for women & gender minorities in STEM. Enjoy learning, programming, and researching.
+description: Hello, I’m Foong Min, advocate for women & gender minorities in STEM. Enjoy learning, programming, and researching.
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
@@ -25,7 +25,6 @@ def about_me():
 
   first_name = "Foong Min"
   last_name = "Wong"
-  nickname = "Victoria"
   language = ["Python", "Java", "SQL", "R", "English", "Mandarin", "Malay", ...]
   hobby = ["Walking", "Blogging", "Learning", "Portrait Drawing", ...]
 
