@@ -32,11 +32,14 @@ def about_me():
 
 Experience 📜
 
+- `BAE Systems Applied Intelligence`
+
+&nbsp;
 - `Keysight Technologies`
   - R&D Engineer at Keysight Intellectual Property Services
-    <!-- - Tools: Python, NLP, PowerBI Dataflow, Project? -->
+  <!-- - Tools: Python, NLP, PowerBI Dataflow, Project? -->
   - Penang Science Cluster Girls in Engineering and Technology ([GET2021](https://www.linkedin.com/posts/penang-science-cluster_on-thursday-we-had-a-soft-launch-of-the-activity-6773436866516664321-f9hC)) program: Data Visualization with Python Workshop Mentor via  [Codeacademy](https://www.codecademy.com/learn/paths/visualize-data-with-python)
-  - Introduce a Girl to Engineering Day 2021 via [Scratch](https://scratch.mit.edu/users/foongminwong/) - *In Progress*
+  - Software Workshop Lead: Keysight Introduce a Girl to Engineering Day 2021 via [Scratch](https://scratch.mit.edu/users/foongminwong/)
 
 &nbsp;
 - `AnitaB.org`
