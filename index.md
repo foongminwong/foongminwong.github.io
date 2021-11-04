@@ -13,10 +13,9 @@ description: Hello, I’m Foong Min, advocate for women & gender minorities in S
   gtag('config', 'UA-98422769-4');
 </script>
 
-
 About me 🙋🏻‍♀️ 
 
-{% highlight python %}
+<!-- {% highlight python %}
 def about_me():
 
   """
@@ -28,7 +27,12 @@ def about_me():
   language = ["Python", "Java", "SQL", "R", "English", "Mandarin", "Malay", ...]
   hobby = ["Walking", "Blogging", "Learning", "Portrait Drawing", ...]
 
-{% endhighlight %}
+{% endhighlight %} -->
+
+
+![STEM memories](/assets/stem_banner_2.png)
+
+
 
 Experience 📜
 
@@ -61,8 +65,7 @@ Experience 📜
 
 Other 👩🏻‍💻
 - [Medium](https://medium.com/@foongminwong)
-
-![STEM memories](/assets/stem_banner_2.png)
+- [Linktree](https://linktr.ee/foongminwong)
 
 <!-- &nbsp; -->
 <!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->

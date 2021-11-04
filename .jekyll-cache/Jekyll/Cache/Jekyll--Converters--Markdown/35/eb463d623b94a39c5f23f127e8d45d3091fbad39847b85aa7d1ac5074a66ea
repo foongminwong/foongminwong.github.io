@@ -1,4 +1,4 @@
-I"�<!-- Global site tag (gtag.js) - Google Analytics -->
+I"}<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
 
 <script>
@@ -10,6 +10,8 @@
 </script>
 
 <p>About me 🙋🏻‍♀️</p>
+
+<p><img src="/assets/stem_banner_2.png" alt="STEM memories" /></p>
 
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">about_me</span><span class="p">():</span>
 
@@ -25,11 +27,11 @@
 <p>Experience 📜</p>
 
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">BAE Systems Applied Intelligence</code>
-    <ul>
-      <li>👩🏻‍💻 …</li>
-    </ul>
-  </li>
+  <li><code class="language-plaintext highlighter-rouge">BAE Systems Applied Intelligence</code></li>
+</ul>
+
+<p> </p>
+<ul>
   <li><code class="language-plaintext highlighter-rouge">Keysight Technologies</code>
     <ul>
       <li>R&amp;D Engineer at Keysight Intellectual Property Services
@@ -72,8 +74,6 @@
 <ul>
   <li><a href="https://medium.com/@foongminwong">Medium</a></li>
 </ul>
-
-<p><img src="/assets/stem_banner_2.png" alt="STEM memories" /></p>
 
 <!-- &nbsp; -->
 <!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->

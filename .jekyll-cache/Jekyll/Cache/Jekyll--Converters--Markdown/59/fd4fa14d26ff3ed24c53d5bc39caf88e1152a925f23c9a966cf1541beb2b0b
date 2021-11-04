@@ -1,4 +1,4 @@
-I"�<!-- Global site tag (gtag.js) - Google Analytics -->
+I"�<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
 
 <script>
@@ -11,6 +11,7 @@
 
 <p>About me 🙋🏻‍♀️</p>
 
+<!-- 
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">about_me</span><span class="p">():</span>
 
   <span class="s">"""
@@ -21,15 +22,18 @@
   <span class="n">last_name</span> <span class="o">=</span> <span class="s">"Wong"</span>
   <span class="n">language</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Python"</span><span class="p">,</span> <span class="s">"Java"</span><span class="p">,</span> <span class="s">"SQL"</span><span class="p">,</span> <span class="s">"R"</span><span class="p">,</span> <span class="s">"English"</span><span class="p">,</span> <span class="s">"Mandarin"</span><span class="p">,</span> <span class="s">"Malay"</span><span class="p">,</span> <span class="p">...]</span>
   <span class="n">hobby</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Walking"</span><span class="p">,</span> <span class="s">"Blogging"</span><span class="p">,</span> <span class="s">"Learning"</span><span class="p">,</span> <span class="s">"Portrait Drawing"</span><span class="p">,</span> <span class="p">...]</span></code></pre></figure>
+ -->
+
+<p><img src="/assets/stem_banner_2.png" alt="STEM memories" /></p>
 
 <p>Experience 📜</p>
 
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">BAE Systems Applied Intelligence</code>
-    <ul>
-      <li>👩🏻‍💻 …</li>
-    </ul>
-  </li>
+  <li><code class="language-plaintext highlighter-rouge">BAE Systems Applied Intelligence</code></li>
+</ul>
+
+<p> </p>
+<ul>
   <li><code class="language-plaintext highlighter-rouge">Keysight Technologies</code>
     <ul>
       <li>R&amp;D Engineer at Keysight Intellectual Property Services
@@ -72,8 +76,6 @@
 <ul>
   <li><a href="https://medium.com/@foongminwong">Medium</a></li>
 </ul>
-
-<p><img src="/assets/stem_banner_2.png" alt="STEM memories" /></p>
 
 <!-- &nbsp; -->
 <!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->
