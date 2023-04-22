@@ -28,9 +28,12 @@ def about_me():
   hobby = ["Walking", "Blogging", "Learning", "Portrait Drawing", ...]
 
 {% endhighlight %} -->
-Born and raised in Malaysia, I enjoy doing random stuff. 
+My name is Foong Min (枫敏).
 
-I love to go for walks, blog on [Medium](https://medium.com/@foongminwong), cook, swim, play, learn...
+I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), and learning..
+
+Born and raised in Malaysia, I speak Chinese, English, Malay, and [Python](https://www.python.org/)... 
+
 ![About Me](assets/WFM_About_Me_3.jpg)
 
 

@@ -1,4 +1,4 @@
-I"'<!-- Global site tag (gtag.js) - Google Analytics -->
+I"�<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
 
 <script>
@@ -23,10 +23,13 @@
   <span class="n">language</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Python"</span><span class="p">,</span> <span class="s">"Mandarin"</span><span class="p">,</span> <span class="s">"English"</span><span class="p">,</span> <span class="s">"Malay"</span><span class="p">,</span> <span class="p">...]</span>
   <span class="n">hobby</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Walking"</span><span class="p">,</span> <span class="s">"Blogging"</span><span class="p">,</span> <span class="s">"Learning"</span><span class="p">,</span> <span class="s">"Portrait Drawing"</span><span class="p">,</span> <span class="p">...]</span></code></pre></figure>
  -->
-<p>Born and raised in Malaysia, I enjoy doing random stuff.</p>
+<p>My name is Foong Min (枫敏).</p>
 
-<p>I love to go for walks, blog on <a href="https://medium.com/@foongminwong">Medium</a>, cook, swim, play, learn…
-<img src="assets/WFM_About_Me_3.jpg" alt="About Me" /></p>
+<p>Born and raised in Malaysia, I speak Chinese, English, Malay, and <a href="https://www.python.org/">Python</a>..</p>
+
+<p>I enjoy going for walks, blogging on <a href="https://medium.com/@foongminwong">Medium</a>, and learning…</p>
+
+<p><img src="assets/WFM_About_Me_3.jpg" alt="About Me" /></p>
 
 <p><code class="language-plaintext highlighter-rouge">Experience</code></p>
 
@@ -86,7 +89,7 @@
       <li>Secretary of <a href="https://www.facebook.com/uwecsacm/">Student Association for Computing Machinery</a> (18-19)</li>
       <li><a href="https://drive.google.com/file/d/1SZTqQRziRtJDbqbBGpxpQnMhV5NHjrfN/view">University Centers Service Award</a></li>
       <li>Student diversity advocate in <a href="https://www.youtube.com/watch?v=dtJj1jAKOas">STEM</a></li>
-      <li>Other: <a href="archive/coursework">Coursework</a>, <a href="archive/projects">Projects</a>, , <a href="archive/research">Research</a></li>
+      <li>Other: <a href="archive/coursework">Coursework</a>, <a href="archive/projects">Projects</a>, <a href="archive/research">Research</a></li>
     </ul>
   </li>
 </ul>
