@@ -13,10 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # show_excerpts: false # set to true to show excerpts on the homepage
 
-twitter_username: foongminwong
+# twitter_username: foongminwong
 github_username:  foongminwong
 linkedin_username: foongminwong
-medium_username: foongminwong
 
 # Build settings
 markdown: kramdown
