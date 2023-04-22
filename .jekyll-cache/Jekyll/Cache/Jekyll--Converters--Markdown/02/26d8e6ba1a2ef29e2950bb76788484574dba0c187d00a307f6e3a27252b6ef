@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Foong Min Wong</title>
-<meta name="generator" content="Jekyll v4.2.1" />
-<meta property="og:title" content="Foong Min Wong" />
-<meta name="author" content="Foong Min Wong" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Hello, I’m Foong Min, advocate for women &amp; gender minorities in STEM. Enjoy learning, programming, and researching." />
-<meta property="og:description" content="Hello, I’m Foong Min, advocate for women &amp; gender minorities in STEM. Enjoy learning, programming, and researching." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Foong Min Wong" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Foong Min Wong" />
-<script type="application/ld+json">
-{"author":{"@type":"Person","name":"Foong Min Wong"},"@type":"WebSite","headline":"Foong Min Wong","description":"Hello, I’m Foong Min, advocate for women &amp; gender minorities in STEM. Enjoy learning, programming, and researching.","url":"http://localhost:4000/","name":"Foong Min Wong","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Foong Min Wong" /></head>
-<body><header class="site-header">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Foong Min Wong</a></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+I"%<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
 
 <script>
@@ -127,41 +100,4 @@
 
 <!-- [blogging](https://foongminwong.blogspot.com) -->
 
-
-      </div>
-    </main><!-- https://cyberloginit.com/2018/05/05/github-pages-jekyll-minima-customize-footer.html -->
-<footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <!-- <p class="feed-subscribe">
-          <a href="/feed.xml">
-            <svg class="svg-icon orange">
-              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p> -->
-        <ul class="contact-list">
-          <li class="p-name">Foong Min Wong</li>
-          <li><a class="u-email" href="mailto:foongminw@gmail.com">foongminw@gmail.com</a></li>
-        </ul>
-      </div>
-      <div class="footer-col" style="float: left;">
-        <!-- <p></p> -->
-      </div>
-
-      <div class="social-links" style="float: right;"><ul class="social-media-list"><li><a href="https://github.com/foongminwong"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">foongminwong</span></a></li><li><a href="https://www.linkedin.com/in/foongminwong"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">foongminwong</span></a></li></ul>
-</div>
-
-    </div>
-          
-
-  </div>
-
-</footer>
-</body>
-
-</html>
+:ET

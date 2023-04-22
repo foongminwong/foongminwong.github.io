@@ -70,7 +70,7 @@ I love to go for walks, blog on [Medium](https://medium.com/@foongminwong), cook
   - Secretary of [Student Association for Computing Machinery](https://www.facebook.com/uwecsacm/) (18-19)
   - [University Centers Service Award](https://drive.google.com/file/d/1SZTqQRziRtJDbqbBGpxpQnMhV5NHjrfN/view)
   - Student diversity advocate in [STEM](https://www.youtube.com/watch?v=dtJj1jAKOas)
-  - Other: [Coursework](archive/coursework), [Projects](archive/projects), , [Research](archive/research)
+  - Other: [Coursework](archive/coursework), [Projects](archive/projects), [Research](archive/research)
 
 <!-- &nbsp; -->
 <!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->
