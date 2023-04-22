@@ -13,7 +13,7 @@ description: Hello, I’m Foong Min, advocate for women & gender minorities in S
   gtag('config', 'UA-98422769-4');
 </script>
 
-`About me` 
+`About me`
 
 <!-- {% highlight python %}
 def about_me():
@@ -36,18 +36,18 @@ I love to go for walks, blog on [Medium](https://medium.com/@foongminwong), cook
 
 `Experience`
 
-- Keysight Technologies 🇸🇬
+- Keysight Technologies 
   - R&D Software Engineer at Keysight Quantum Engineering Solutions
   - Acquired [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d8d161f9-1d47-4105-b035-3039f4ae4fb7/public_url) certification
 
 &nbsp;
-- BAE Systems Applied Intelligence 🇲🇾
+- BAE Systems Applied Intelligence
   - Software Engineer at Cybersecurity & IT Consulting Division in BAE Systems
   - Awarded fully-funded 8-month leadership trainings from [U.S.-ASEAN Women's Leadership Academy for Young Southeast Asian Leaders (YSEALI), Wedu Global](https://www.facebook.com/yseali/posts/pfbid0pPX7KaWBu56QqoSu8Rc9eHo8zS2cNeCXrAoVZ1rdn1NTL2s1z6GmBuvrUVyywVN8l)
   - Acquired [Certified SAFe® 5 Practitioner](https://www.credly.com/badges/8a804dc5-283a-4a23-a88f-9f520213606b/public_url)
 
 &nbsp;
-- Keysight Technologies 🇲🇾
+- Keysight Technologies
   - R&D Engineer at Keysight Intellectual Property Services
   <!-- - Tools: Python, NLP, PowerBI Dataflow, Project? -->
   - Penang Science Cluster Girls in Engineering and Technology ([GET2021](https://www.linkedin.com/posts/penang-science-cluster_on-thursday-we-had-a-soft-launch-of-the-activity-6773436866516664321-f9hC)) program: Data Visualization with Python Workshop Mentor via  [Codeacademy](https://www.codecademy.com/learn/paths/visualize-data-with-python)
@@ -55,14 +55,14 @@ I love to go for walks, blog on [Medium](https://medium.com/@foongminwong), cook
   - Acquired [Microsoft Certified: Azure AI Engineer Associate](https://www.credly.com/badges/5e155a2c-80c3-4ca2-8869-3d1ed3b5646f/public_url)
 
 &nbsp;
-- AnitaB.org 👩🏻‍💻
+- AnitaB.org
   - [vGHC21](https://ghc.anitab.org/get-involved/vghc-21-committees/) Committees and Scholarship Reviewer (20-present)
   - [AnitaB.org Open Source](https://github.com/anitab-org) Ambassador/ [Contributor](https://medium.com/anitab-org-open-source/introduction-to-anitab-org-open-source-teams-2b0e202ea52c) (19-20)
   - Google Code-in with Systers Mentor [(19-20)](https://www.dropbox.com/s/2ti2a35bpswe9ae/GCI%202019%20Certificate%20Foong%20Min%20Wong.pdf?dl=0)
   - [Grace Hopper Scholar 2019](https://foongminwong.medium.com/a-personal-ghc19-scholar-experience-2abd6024a28d) & [Open Source Mentor](https://drive.google.com/file/d/1oz_-wLcceotf6bjpCLOet36cQbuj68Eb/view)
 
 &nbsp;
-- University of Wisconsin-Eau Claire 🇺🇸 
+- University of Wisconsin-Eau Claire
   - Undergraduate Teaching Assistant & [Research Assistant](archive/research) (17-19)
   - American Association of University Women (AAUW) - Eau Claire National Conference for College Women Student Leaders [(NCCWSL)](/assets/nccwsl_scholar_2018.jpg) Scholar 2018
   - Vice President of [Women and Gender Minorities in STEM](https://sites.google.com/view/uwecwistem/) (18-19)
