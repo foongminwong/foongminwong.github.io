@@ -34,7 +34,7 @@ I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong),
 
 Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/)... 
 
-![About Me](assets/WFM_About_Me_3.jpg)
+![About Me](assets/WFM_About_Me_4.jpg)
 
 
 `Experience`
