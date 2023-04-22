@@ -46,7 +46,7 @@ Born and raised in Malaysia, I speak Chinese, English, Malay, and [Python](https
 &nbsp;
 - BAE Systems Applied Intelligence
   - Software Engineer at Cybersecurity & IT Consulting Division in BAE Systems
-  - Awarded fully-funded 8-month leadership trainings from [U.S.-ASEAN Women's Leadership Academy for Young Southeast Asian Leaders (YSEALI), Wedu Global](https://www.facebook.com/yseali/posts/pfbid0pPX7KaWBu56QqoSu8Rc9eHo8zS2cNeCXrAoVZ1rdn1NTL2s1z6GmBuvrUVyywVN8l)
+  - Awarded 8-month leadership trainings organized by Wedu Global, fully funded by [U.S.-ASEAN Women's Leadership Academy for Young Southeast Asian Leaders (YSEALI)](https://www.facebook.com/yseali/posts/pfbid0pPX7KaWBu56QqoSu8Rc9eHo8zS2cNeCXrAoVZ1rdn1NTL2s1z6GmBuvrUVyywVN8l)
   - Acquired [Certified SAFe® 5 Practitioner](https://www.credly.com/badges/8a804dc5-283a-4a23-a88f-9f520213606b/public_url)
 
 &nbsp;
