@@ -18,7 +18,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 * Wrote automation shell script for video rendering of multiple surfaces
 * Integrated Bertini_real and Blender via Python for automation of routine tasks, such as setting up camera path, object properties, animations and lighting
 * Presented in GEEKcon 2019 and [poster](https://drive.google.com/open?id=1rKvrZWZNixB5KWcJqnQHGyJh7ybGJ1Ds) at [Joint Mathematics Meetings (JMM) 2020](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_intro)
-* Won outstanding poster award druing [JMM 2020: Poster 176](https://www.maa.org/member-communities/students/undergraduate-research/past-sessions-winners) 
+* Won outstanding poster award during [JMM 2020: Poster 176](https://www.maa.org/member-communities/students/undergraduate-research/past-sessions-winners), read more [MAA Spring 2020](http://sections.maa.org/wisconsin/news/MAAWINewsSpr20.pdf) 
 
 
 ** Check out [Silviana's Algebraic Surfaces playlist](https://www.youtube.com/watch?v=TZGlXpTvzWk&list=PLvPfvi8Fl36z3MOewwpm6zwGySU-pnCow)
