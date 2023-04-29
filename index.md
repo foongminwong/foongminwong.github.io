@@ -30,7 +30,7 @@ def about_me():
 {% endhighlight %} -->
 My name is Foong Min (枫敏).
 
-I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), and learning..
+I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), and doing stuff..
 
 Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/)... 
 
