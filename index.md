@@ -28,20 +28,18 @@ def about_me():
   hobby = ["Walking", "Blogging", "Learning", "Portrait Drawing", ...]
 
 {% endhighlight %} -->
-My name is Foong Min (枫敏).
+Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/).
 
-I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), and doing stuff..
+I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), swimming, and doing stuff..
 
-Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/)... 
-
-![About Me](assets/WFM_About_Me_4.jpg)
-
+![About Me](assets/WFM_About_Me_5.jpg)
 
 `Experience`
 
 - Keysight Technologies 
   - R&D Software Engineer at Keysight Quantum Engineering Solutions
   - Acquired [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d8d161f9-1d47-4105-b035-3039f4ae4fb7/public_url) certification
+  - [Technovation Challenge](https://technovationchallenge.org/) Volunteer Judge
 
 &nbsp;
 - BAE Systems Applied Intelligence
@@ -52,7 +50,6 @@ Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Py
 &nbsp;
 - Keysight Technologies
   - R&D Engineer at Keysight Intellectual Property Services
-  <!-- - Tools: Python, NLP, PowerBI Dataflow, Project? -->
   - Penang Science Cluster Girls in Engineering and Technology ([GET2021](https://www.linkedin.com/posts/penang-science-cluster_on-thursday-we-had-a-soft-launch-of-the-activity-6773436866516664321-f9hC)) program: Data Visualization with Python Workshop Mentor via  [Codeacademy](https://www.codecademy.com/learn/paths/visualize-data-with-python)
   - Software Workshop Lead: Keysight Introduce a Girl to Engineering Day 2021 via [Scratch](https://scratch.mit.edu/users/foongminwong/)
   - Acquired [Microsoft Certified: Azure AI Engineer Associate](https://www.credly.com/badges/5e155a2c-80c3-4ca2-8869-3d1ed3b5646f/public_url)
@@ -74,16 +71,3 @@ Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Py
   - [University Centers Service Award](https://drive.google.com/file/d/1SZTqQRziRtJDbqbBGpxpQnMhV5NHjrfN/view)
   - Student diversity advocate in [STEM](https://www.youtube.com/watch?v=dtJj1jAKOas)
   - Other: [Coursework](archive/coursework), [Projects](archive/projects), [Research](archive/research)
-
-<!-- &nbsp; -->
-<!-- Reading 📚 [https://www.goodreads.com/foongminwong](https://www.goodreads.com/foongminwong)  -->
-
-
-<!-- Take a look at her [resume](https://drive.google.com/open?id=10HE4X9rg9c7CHY1tb6vBGWWo0ggodHxC)(May 2019) to learn more or keep navigating!
- -->
-<!-- [CV](https://drive.google.com/file/d/1OT-HkQwWePL-A6QOifTcMTO_UMIH7fRY/view)(Dec 2019) -->
-
-<!-- [blogging](https://foongminwong.blogspot.com) -->
-
-
-
