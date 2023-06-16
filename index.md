@@ -28,7 +28,7 @@ def about_me():
   hobby = ["Walking", "Blogging", "Learning", "Portrait Drawing", ...]
 
 {% endhighlight %} -->
-Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/).
+Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/)...
 
 I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), swimming, and doing stuff..
 
