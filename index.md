@@ -30,7 +30,7 @@ def about_me():
 {% endhighlight %} -->
 Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/)...
 
-I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), swimming, and doing stuff..
+I enjoy going for walks, blogging on [Medium](https://medium.com/@foongminwong), and doing stuff..
 
 ![About Me](assets/WFM_About_Me_5.jpg)
 
