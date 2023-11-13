@@ -1,0 +1,33 @@
+I"Ö<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-98422769-4"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98422769-4');
+</script>
+
+<p><img src="assets/WFM_About_Me_5.jpg" alt="About Me" /></p>
+
+<p><code class="language-plaintext highlighter-rouge">About me</code></p>
+
+<p>Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and <a href="https://www.python.org/">Python</a>.</p>
+
+<p>Previously worked as a <a href="(archive/research)">research assistant</a> at UW-Eau Claire, now I am working as an R&amp;D Software Engineer.</p>
+
+<p>I enjoy blogging on <a href="https://medium.com/@foongminwong">Medium</a> and doing stuff.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">about_me</span><span class="p">():</span>
+
+  <span class="s">"""
+  This is a brief personal introduction.
+  """</span>
+
+  <span class="n">first_name</span> <span class="o">=</span> <span class="s">"Foong Min"</span>
+  <span class="n">last_name</span> <span class="o">=</span> <span class="s">"Wong"</span>
+  <span class="n">country</span> <span class="o">=</span> <span class="s">"Malaysia"</span>
+  <span class="n">language</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Python"</span><span class="p">,</span> <span class="s">"Chinese"</span><span class="p">,</span> <span class="s">"Cantonese"</span><span class="p">,</span> <span class="s">"English"</span><span class="p">,</span> <span class="s">"Malay"</span><span class="p">]</span>
+  <span class="n">hobby</span> <span class="o">=</span> <span class="p">[</span><span class="s">"Blogging"</span><span class="p">,</span> <span class="s">"Swimming"</span><span class="p">,</span> <span class="s">"Doing stuff"</span><span class="p">]</span></code></pre></figure>
+:ET

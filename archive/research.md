@@ -24,7 +24,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 ** Check out [Silviana's Algebraic Surfaces playlist](https://www.youtube.com/watch?v=TZGlXpTvzWk&list=PLvPfvi8Fl36z3MOewwpm6zwGySU-pnCow)
 
 
-** I do not own the copyrights to the images/videos. [Silviana](https://silviana.org) owns them :)
+** I do not own the copyrights to the images/videos. [Silviana](https://silviana.org) owns them.
 
 
 &nbsp;
@@ -49,7 +49,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 * Presented [poster](https://drive.google.com/file/d/11b6kZrPP3QqIbP9UImjpyiI2s4j6gIRT/view) at National Conferences on Undergraduate Research ([NCUR2019](https://1.bp.blogspot.com/-j-XIA9jOM9o/XMuDvQa2xqI/AAAAAAAATIQ/u2My98JVYcUk16Rgn3nAwBzimvvzM4R_QCLcBGAs/s1600/57053736_10213341253033938_7355756777213788160_o%2B%25281%2529.jpg)) in Kennessaw Georgia and [UW System Symposium](https://1.bp.blogspot.com/-IaF1ORMQsj8/XMuDDVk9vII/AAAAAAAATHY/hvhpD5A6gUYL1Uwb4fnSyJBW01CQCXqCQCLcBGAs/s1600/IMG_20190426_133717.jpg) in Green Bay
 * Read more about [NCUR 2019](https://www.cur.org/assets/1/7/NCUR_2019_Conference_Program.pdf) & [CERCA 2019](https://publicwebuploads.uwec.edu/documents/Combined-final.pdf)
 
-** I do not own the copyrights to the images. [Silviana](https://silviana.org) owns them :)
+** I do not own the copyrights to the images. [Silviana](https://silviana.org) owns them.
 
 &nbsp;
 
@@ -74,6 +74,24 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 
 &nbsp;
 
+## Cross-cultural Interdisciplinary Research Study of Internet Communication
+#### Faculty Mentor: Dr. Reiko Shinno, Bao Li-Ying
+##### *Apr 2018 - May 2019*
+#### Tools Used: HTML, CSS, Javascript
+Link: [Website](http://www.songyuan.org/){: .btn} 
+
+![Interdisciplinary Study - Cross-cultural Research of Internet Communication](/assets/songyuan.PNG)
+
+* Worked with a graphic designer ([Joseph Grosskreutz](https://www.linkedin.com/in/josephgrosskreutz/)) and developed a website (songyuan.org) that employs principles of UX friendly design for the historical International Society for Song, Yuan, and Conquest Dynasty Studies (SSYCDS)
+* Created a cohesive website that visually communicates a cross-cultural subject of SSYCDS using HTML, CSS, and Javascript
+* Presented [poster](https://minds.wisconsin.edu/handle/1793/81473) at UWEC CERCA
+
+&nbsp;
+
+---
+
+&nbsp;
+
 ## 3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real
 #### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *Sep 2017 - May 2018*
@@ -88,7 +106,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 * Read more about [SIAM AN18](https://www.siam.org/Portals/0/Conferences/AN18/AN18%20Program%20Book%20AND%20Abstracts%20(UPDATED).pdf?ver=2018-07-26-115459-590) & [CERCA 2018](https://publicwebuploads.uwec.edu/documents/2018-CERCA-Abstract-Book-Complete.pdf)
 
 
-** I do not own the copyrights to the images. [Silviana](https://danielleamethyst.org/gallery/hauser/) owns them :)
+** I do not own the copyrights to the images. [Silviana](https://danielleamethyst.org/gallery/hauser/) owns them.
 
 
 
