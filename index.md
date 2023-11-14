@@ -17,15 +17,13 @@ description: Hello, I’m Foong Min, advocate for women & gender minorities in S
 
 Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/).
 
-`Work`
-
-I previously worked as a [research assistant](archive/research) at UW-Eau Claire.
-
-Now, I am working as an R&D Software Engineer in Singapore.
-
-`Other`
+As of now, I am based in Singapore working in R&D.
 
 I enjoy blogging on [Medium](https://medium.com/@foongminwong) and doing stuff.
+
+`Other`
+- [Work](https://www.linkedin.com/in/foongminwong)
+- [Research](archive/research)
 
 ![About Me](assets/WFM_About_Me_5.jpg)
 
