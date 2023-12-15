@@ -8,7 +8,7 @@ title:
 ## 3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API
 #### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *May 2019 - Aug 2019*
-#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, Blender, JSON
+#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, Blender, Slurm, Blugold HPC Supercomputing Cluster ([BGSC](https://www.uwec.edu/academics/college-arts-sciences/academic-resources/academic-facilities/blugold-supercomputing-cluster/)) for numerical computation of algebraic surfaces
 #### GitHub PRs: [Adding Anaglypy, Vertex module and vertex type](https://github.com/ofloveandhate/bertini_real/pull/68), [Refactor decomposition](https://github.com/ofloveandhate/bertini_real/pull/69), [Matplotlib Pieces Plotting & Documentation](https://github.com/ofloveandhate/bertini_real/pull/70)
 Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn} 
 
@@ -36,7 +36,7 @@ Link: [Repo](https://github.com/foongminwong/3d-stereoscopic-animation){: .btn}
 ## Visualization of Algebraic Surfaces Using Python and Bertini_real
 #### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *Sep 2018 - Dec 2019*
-#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, 3D Builder, Blender, Simplify3D, Sphinx, LaTeX
+#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), Python, 3D Builder, Blender, Simplify3D, Sphinx, Slurm, LaTeX
 #### GitHub PR: [Python surface visualization](https://github.com/ofloveandhate/bertini_real/pull/62)
 
 Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn} 
@@ -60,7 +60,7 @@ Link: [Repo](https://github.com/foongminwong/bertini_real){: .btn}
 ## Random Forest Analysis of Breast Cancer Age at Onset
 #### Faculty Mentor: [Dr. Abra Brisbin](https://sites.google.com/site/abrabrisbin/home)
 ##### *Sep 2018 - Dec 2019*
-#### Technologies Used: R, RStudio, Excel, [Plink](http://zzz.bwh.harvard.edu/plink/), Blugold Supercomputing Cluster ([BGSC](https://www.uwec.edu/academics/college-arts-sciences/academic-resources/academic-facilities/blugold-supercomputing-cluster/)) - for random forest analysis of real genetic dataset which is around 47,000 Single Nucleotide Polymorphisms (SNPs), Slurm
+#### Technologies Used: R, RStudio, Excel, [Plink](http://zzz.bwh.harvard.edu/plink/), Slurm, Blugold Supercomputing Cluster ([BGSC](https://www.uwec.edu/academics/college-arts-sciences/academic-resources/academic-facilities/blugold-supercomputing-cluster/)) - for random forest analysis of real genetic dataset which is around 47,000 Single Nucleotide Polymorphisms (SNPs)
 
 ![Random Forest Analysis of Breast Cancer Age at Onset](/assets/roc-curve.png)
 * Implemented a two-phased approach: [1] [ordinal logistic regression](https://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/) & [2] [random forest](https://www.rdocumentation.org/packages/partykit/versions/1.2-4/topics/cforest) to identify additional genetic variants for binned age at onset traits
@@ -95,7 +95,7 @@ Link: [Website](http://www.songyuan.org/){: .btn}
 ## 3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real
 #### Faculty Mentor: [Dr. Silviana Amethyst](https://silviana.org/)
 ##### *Sep 2017 - May 2018*
-#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), MATLAB, 3D Builder, Blender, Simplify3D, LaTeX, Ultibots D300VS, LulzBot TAZ (3D printers), PLA filament
+#### Technologies Used: [Bertini_real](https://github.com/ofloveandhate/bertini_real), MATLAB, 3D Builder, Blender, Simplify3D, LaTeX, Ultibots D300VS, LulzBot TAZ (3D printers), PLA filament, SLurm
 
 ![3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real](/assets/kreuz-tobel-stern-croissant.png)
 * Learned how to use an open-source numerical software, Bertini_real to compute algebraic surfaces from [Herwig Hauser Gallery](https://homepage.univie.ac.at/herwig.hauser/gallery.html)

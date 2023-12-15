@@ -1,9 +1,9 @@
-I"�)<p> </p>
+I"C*<p> </p>
 
 <h2 id="3d-stereoscopic-animations-of-algebraic-surfaces-using-bertini_real-and-blenderpython-api">3D Stereoscopic Animations of Algebraic Surfaces Using Bertini_real and Blender/Python API</h2>
 <h4 id="faculty-mentor-dr-silviana-amethyst">Faculty Mentor: <a href="https://silviana.org/">Dr. Silviana Amethyst</a></h4>
 <h5 id="may-2019---aug-2019"><em>May 2019 - Aug 2019</em></h5>
-<h4 id="technologies-used-bertini_real-python-blender-json">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, Python, Blender, JSON</h4>
+<h4 id="technologies-used-bertini_real-python-blender-slurm-blugold-hpc-supercomputing-cluster">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, Python, Blender, Slurm (<a href="https://hpc.uwec.edu/about/hardware-specs/">Blugold HPC Supercomputing Cluster</a>)</h4>
 <h4 id="github-prs-adding-anaglypy-vertex-module-and-vertex-type-refactor-decomposition-matplotlib-pieces-plotting--documentation">GitHub PRs: <a href="https://github.com/ofloveandhate/bertini_real/pull/68">Adding Anaglypy, Vertex module and vertex type</a>, <a href="https://github.com/ofloveandhate/bertini_real/pull/69">Refactor decomposition</a>, <a href="https://github.com/ofloveandhate/bertini_real/pull/70">Matplotlib Pieces Plotting &amp; Documentation</a></h4>
 <p>Link: <a href="https://github.com/foongminwong/3d-stereoscopic-animation" class="btn">Repo</a></p>
 
@@ -30,7 +30,7 @@
 <h2 id="visualization-of-algebraic-surfaces-using-python-and-bertini_real">Visualization of Algebraic Surfaces Using Python and Bertini_real</h2>
 <h4 id="faculty-mentor-dr-silviana-amethyst-1">Faculty Mentor: <a href="https://silviana.org/">Dr. Silviana Amethyst</a></h4>
 <h5 id="sep-2018---dec-2019"><em>Sep 2018 - Dec 2019</em></h5>
-<h4 id="technologies-used-bertini_real-python-3d-builder-blender-simplify3d-sphinx-latex">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, Python, 3D Builder, Blender, Simplify3D, Sphinx, LaTeX</h4>
+<h4 id="technologies-used-bertini_real-python-3d-builder-blender-simplify3d-sphinx-slurm-latex">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, Python, 3D Builder, Blender, Simplify3D, Sphinx, Slurm, LaTeX</h4>
 <h4 id="github-pr-python-surface-visualization">GitHub PR: <a href="https://github.com/ofloveandhate/bertini_real/pull/62">Python surface visualization</a></h4>
 
 <p>Link: <a href="https://github.com/foongminwong/bertini_real" class="btn">Repo</a></p>
@@ -95,7 +95,7 @@
 <h2 id="3d-printing-herwig-hausers-gallery-of-algebraic-surfaces-with-bertini_real">3D Printing Herwig Hauser’s Gallery of Algebraic Surfaces with Bertini_real</h2>
 <h4 id="faculty-mentor-dr-silviana-amethyst-2">Faculty Mentor: <a href="https://silviana.org/">Dr. Silviana Amethyst</a></h4>
 <h5 id="sep-2017---may-2018"><em>Sep 2017 - May 2018</em></h5>
-<h4 id="technologies-used-bertini_real-matlab-3d-builder-blender-simplify3d-latex-ultibots-d300vs-lulzbot-taz-3d-printers-pla-filament">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, MATLAB, 3D Builder, Blender, Simplify3D, LaTeX, Ultibots D300VS, LulzBot TAZ (3D printers), PLA filament</h4>
+<h4 id="technologies-used-bertini_real-matlab-3d-builder-blender-simplify3d-latex-ultibots-d300vs-lulzbot-taz-3d-printers-pla-filament-slurm">Technologies Used: <a href="https://github.com/ofloveandhate/bertini_real">Bertini_real</a>, MATLAB, 3D Builder, Blender, Simplify3D, LaTeX, Ultibots D300VS, LulzBot TAZ (3D printers), PLA filament, SLurm</h4>
 
 <p><img src="/assets/kreuz-tobel-stern-croissant.png" alt="3D Printing Herwig Hauser's Gallery of Algebraic Surfaces with Bertini_real" /></p>
 <ul>
