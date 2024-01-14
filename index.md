@@ -17,7 +17,7 @@ description: Hello, I’m Foong Min, advocate for women & gender minorities in S
 
 Born and raised in Malaysia, I speak Chinese, Cantonese, English, Malay, and [Python](https://www.python.org/).
 
-I enjoy blogging on [Medium](https://medium.com/@foongminwong), swimming, and doing stuff.
+I enjoy blogging on [Medium](https://medium.com/@foongminwong), going for walks, and doing stuff.
 
 As of now, I am based in Singapore working in R&D.
 
